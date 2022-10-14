@@ -3,14 +3,14 @@ Fine-tuned BERT (Bidirectional Encoder Representations from Transformers) Natura
 
 ## Requirements
 Python Libraries:</br>
-&nbsp;streamlit (for website)</br>
-&nbsp;opencv-python</br>
-&nbsp;plotly</br>
-&nbsp;tensorflow</br>
-&nbsp;matplotlib</br>
-&nbsp;altair</br>
-&nbsp;numpy</br>
-&nbsp;pandas</br>
-&nbsp;transformers</br>
+&emsp;streamlit (for website)</br>
+&emsp;opencv-python</br>
+&emsp;plotly</br>
+&emsp;tensorflow</br>
+&emsp;matplotlib</br>
+&emsp;altair</br>
+&emsp;numpy</br>
+&emsp;pandas</br>
+&emsp;transformers</br>
 
 ## Screenshots
